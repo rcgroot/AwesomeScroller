@@ -1,3 +1,12 @@
+This app contains the example Android ListView with the inclusion of a OnScrollListener 
+that will play the "Europe - Final Countdown" mp3 from the assets folder when scrolling.
+
+Special feature is the fade in - fade out of the volume on stop/start scroll.
+
+Although not nearly as Jazzy os the Smooth Jazz Scrolling by Brian Bowden this 
+OnScrollListener can be easily adapted to bring Jazz to other ListViews.
+Idea from: http://www.youtube.com/watch?v=OzZJA7Ls1Y4
+
 =========================
 Regarding the music:
 
